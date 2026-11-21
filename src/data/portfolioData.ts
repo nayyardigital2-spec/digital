@@ -92,9 +92,9 @@ export const SOCIAL_LINKS: SocialLinkItem[] = [
   {
     platform: 'LinkedIn',
     label: 'LinkedIn Profile',
-    handle: 'linkedin.com/in/mukul-bhatt',
-    href: 'https://www.linkedin.com',
-    isPlaceholder: true,
+    handle: 'linkedin.com/in/mukul-bhatt-0b1693397',
+    href: 'https://www.linkedin.com/in/mukul-bhatt-0b1693397/',
+    isPlaceholder: false,
   },
   {
     platform: 'Instagram',
